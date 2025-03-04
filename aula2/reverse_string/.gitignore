@@ -1,0 +1,5 @@
+# Ignorar Cargo.lock para evitar conflitos em bibliotecas
+Cargo.lock
+
+# O diretório target/ já é ignorado automaticamente pelo Cargo
+target/
