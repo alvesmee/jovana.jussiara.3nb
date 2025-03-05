@@ -1,0 +1,8 @@
+[package]
+name = "fila_generica"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "fila_generica"
+path = "src/lib.rs"
